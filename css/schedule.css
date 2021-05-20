@@ -25,7 +25,7 @@
   border-radius: 6px;
   -ms-flex-item-align: center;
       align-self: center;
-  width: 90vw;
+  width: 50vw;
 }
 
 .timeline__event:nth-child(2n + 1) {

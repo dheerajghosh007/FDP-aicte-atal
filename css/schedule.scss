@@ -44,7 +44,7 @@ $color6: blue;
     margin: $spacing 0;
     border-radius: $bdrs;
     align-self: center;
-    width: 90vw;
+    width: 50vw;
 
     &:nth-child(2n + 1) {
       flex-direction: row-reverse;

@@ -8,7 +8,11 @@
       text-align: center;
     }  */
     .mcq{
-      width: 90%;
+      width: 50% !important;
+      display: flex !important;
+    }
+    .timeline__event{
+      width: 90vw !important ;
     }
 
     .m{
