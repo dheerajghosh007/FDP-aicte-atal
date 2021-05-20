@@ -7,9 +7,8 @@
      /* #tct{
       text-align: center;
     }  */
-    .mcq > h3{
-      width: 50% !important;
-      display: flex !important;
+    .mcq{
+      width: 90%;
     }
     .timeline__event{
       width: 90vw !important ;
